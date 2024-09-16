@@ -40,3 +40,8 @@ let numbers = [12, 5, 8, 130, 44];
 let minValue = Math.min(...numbers);
 
 console.log(minValue);
+
+
+
+
+
